@@ -1,7 +1,7 @@
 # Grand-Theft-Auto-IV-Independance-FM-Fix
 This basically aides the game can work the custom music of Independance without WMP. it uses Bass audio more about it all in the README.
 
-I have been experimenting with Opencode and the bigpickle ai bot and It got me thinking if it COULD assiatnce of making a mod that overrides any need for GTA 4 to use windows media player. I asked if it's possible and it began quickly researching. turns out it definitely was possible so I selected the option for it to make an asi mod that'd do it instead of some wmp.dll. I gave it some testing so far and indeed  the game can work the music without WMP. it's using BASS audio... so far though the usual mp3 and wav will work and I am still testing that it works Flac and Opus since the AI ensured to make a bassflac.dll and bassopus.dll... I also put in a command arguement to ensure each dll gets loaded. obviously it did ensure it works with Ultimate asi loader AND Fusionfix. 
+I have been experimenting with Opencode and the bigpickle ai bot and It got me thinking if it COULD assistance of making a mod that overrides any need for GTA 4 to use windows media player. I asked if it's possible and it began quickly researching. turns out it definitely was possible so I selected the option for it to make an asi mod that'd do it instead of some wmp.dll. I gave it some testing so far and indeed  the game can work the music without WMP. it's using BASS audio... so far though the usual mp3 and wav will work and I am still testing that it works Flac and Opus since the AI ensured to make a bassflac.dll and bassopus.dll... I also put in a command arguement to ensure each dll gets loaded. obviously it did ensure it works with Ultimate asi loader AND Fusionfix. 
 
 # IV Independence Fix
 
